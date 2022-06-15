@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingHorizontal="20dp"
+    android:paddingVertical="20dp"
+    android:id="@+id/list_list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/list_list_textView_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="11"
+        android:text="name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/list_list_textView_type" />
+
+    <TextView
+        android:id="@+id/list_list_textView_class"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="class"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/list_list_textView_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="date"
+        android:textSize="14sp"
+        app:layout_constraintStart_toEndOf="@+id/list_list_textView_mp"
+        app:layout_constraintTop_toBottomOf="@+id/list_list_textView_name" />
+
+    <TextView
+        android:id="@+id/list_list_textView_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="score"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/list_list_textView_score4" />
+
+    <TextView
+        android:id="@+id/list_list_textView_score2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="score"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/list_list_textView_score" />
+
+    <TextView
+        android:id="@+id/list_list_textView_score3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="4dp"
+        android:text="score"
+        android:textColor="@color/primary"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@+id/list_list_textView_score2"
+        app:layout_constraintEnd_toStartOf="@+id/list_list_textView_score2" />
+
+    <TextView
+        android:id="@+id/list_list_textView_score4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="score"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="@+id/list_list_textView_score"
+        app:layout_constraintTop_toTopOf="@+id/list_list_textView_type" />
+
+    <TextView
+        android:id="@+id/list_list_textView_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="type"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        app:layout_constraintStart_toStartOf="@+id/list_list_textView_name"
+        app:layout_constraintTop_toBottomOf="@+id/list_list_textView_class" />
+
+    <TextView
+        android:id="@+id/list_list_textView_mp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mp"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="@+id/list_list_textView_name"
+        app:layout_constraintTop_toTopOf="@+id/list_list_textView_date" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

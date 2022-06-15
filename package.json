@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "forever": "^0.15.3",
+    "fs": "^0.0.1-security",
+    "object-hash": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../.gradle/caches/transforms-3/f791586eb8e3cddcf33fb36842d7675a/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.3453125" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/divider.xml" value="0.2655" />
+        <entry key="app/src/main/res/drawable/fragment_selector.xml" value="0.24" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_list_mail.xml" value="0.2655" />
+        <entry key="app/src/main/res/drawable/ic_menu_calandar.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_menu_home.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_menu_home_foreground.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_menu_list.xml" value="0.1925" />
+        <entry key="app/src/main/res/drawable/ic_menu_settings.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/loading_dialog_bg.xml" value="0.2455" />
+        <entry key="app/src/main/res/drawable/spinner_selector.xml" value="0.24" />
+        <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.181" />
+        <entry key="app/src/main/res/drawable/splash_screen_bg_gradient.xml" value="0.181" />
+        <entry key="app/src/main/res/drawable/switch_design.xml" value="0.164" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/activity_user_profile.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/fragment_event.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/fragment_schedule.xml" value="0.2236503856041131" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.37105923356681036" />
+        <entry key="app/src/main/res/layout/fragment_work.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/home.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/home_view_pager.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/list_event.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/list_home.xml" value="0.474009900990099" />
+        <entry key="app/src/main/res/layout/list_list.xml" value="0.7073730468750001" />
+        <entry key="app/src/main/res/layout/list_schedule.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/list_work.xml" value="0.6561299641927083" />
+        <entry key="app/src/main/res/layout/loading_dialog.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/log_in.xml" value="0.6089660644531252" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.3609375" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.18958333333333333" />
+        <entry key="app/src/main/res/menu/calendar_menu.xml" value="0.3609375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_menu_home.xml" value="0.1975" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_menu_home_round.xml" value="0.1975" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3453125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
