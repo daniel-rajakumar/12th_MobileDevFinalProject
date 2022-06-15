@@ -16,6 +16,9 @@ app.listen(PORT, () => console.log(`http://${HOST}:${PORT}`))
 
 const users = new Map()
 const startURL = 'https://students.sbschools.org/genesis/sis/view?gohome=true'
+
+
+// make sure this directory has "images" folder.
 const dataPATH = `${require('os').homedir()}/Documents/data/`
 
 
